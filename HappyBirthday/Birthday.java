@@ -25,7 +25,7 @@ public class Birthday {
         else
             birthYear = 2019 - age - 1;
 
-        System.out.println("I guess that ypu were born in " + birthYear);
+        System.out.println("I guess that ypu were born in " + (birthYear+1));
 
     }
 }
