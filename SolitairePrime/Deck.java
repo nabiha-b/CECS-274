@@ -1,4 +1,6 @@
-//Deck Class
+// Author: Nabiha Bashir
+// Deck Class
+
 package SolitairePrime;
 
 import java.util.Random; //for shuffling cards
